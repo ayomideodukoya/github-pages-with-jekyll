@@ -1,10 +1,7 @@
 title: My Blog
 author: Myda
-email: mydal@domain.com
+email: myda@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  It's awesome, it's cool, it's mine.
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
 theme: minima
 # social links
 twitter_username: thedottedpalm # DO NOT include the @ character, or else the build will fail!
